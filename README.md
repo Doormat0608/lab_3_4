@@ -3,7 +3,9 @@
 Приложение на Python с использованием фреймворка Flask.
 
 Задача: Конвертер курсов валют.
+
 ![image](https://github.com/Doormat0608/lab_3_4/assets/43817157/8409a283-fedf-4dbd-a784-52bdf30c57e5)
+
 
 
 
